@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "Guesser",
+    "host": "localhost",
+    "dialect": "sqlite",
+    "storage": "db/guessser.db"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "Guesser",
+    "host": "localhost",
+    "dialect": "sqlite",
+    "storage": "db/guessser.db"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "Guesser",
+    "host": "localhost",
+    "dialect": "sqlite",
+    "storage": "db/guessser.db"
+  }
+}
